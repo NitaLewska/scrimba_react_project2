@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/scrimba_react_project2/static/css/main.dba49dfc.css",
+    "main.js": "/scrimba_react_project2/static/js/main.2d2aaf66.js",
+    "static/media/photo.jpg": "/scrimba_react_project2/static/media/photo.7532e40aab267747f4c0.jpg",
+    "index.html": "/scrimba_react_project2/index.html",
+    "main.dba49dfc.css.map": "/scrimba_react_project2/static/css/main.dba49dfc.css.map",
+    "main.2d2aaf66.js.map": "/scrimba_react_project2/static/js/main.2d2aaf66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dba49dfc.css",
+    "static/js/main.2d2aaf66.js"
+  ]
+}
