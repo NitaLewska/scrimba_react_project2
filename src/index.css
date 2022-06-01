@@ -1,0 +1,21 @@
+/* Box Model Fix */
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  margin: 0px;
+}
+
+body {
+  margin: 0;
+  padding: 50px 0;
+  background-color: #23252C;
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  height: fit-content;
+}

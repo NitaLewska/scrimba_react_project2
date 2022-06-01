@@ -1,0 +1,27 @@
+article {
+    width: 250px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+article:nth-of-type(1) {
+    margin-top: 25px;
+}
+
+article:nth-of-type(2) {
+    margin-top: 16px;
+}
+
+h3{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    color: #2B283A;
+}
+
+p{
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    color: #4A4E74;
+}
