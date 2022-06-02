@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/scrimba_react_project2/static/css/main.dba49dfc.css",
-    "main.js": "/scrimba_react_project2/static/js/main.a6dc46d8.js",
+    "main.css": "/scrimba_react_project2/static/css/main.b83eb7e5.css",
+    "main.js": "/scrimba_react_project2/static/js/main.554a89f5.js",
     "static/media/photo.jpg": "/scrimba_react_project2/static/media/photo.7532e40aab267747f4c0.jpg",
+    "static/media/Instagram.svg": "/scrimba_react_project2/static/media/Instagram.a12e20aee6927587a5727174f6a84de4.svg",
+    "static/media/GitHub.svg": "/scrimba_react_project2/static/media/GitHub.7892b83a840e71806fcba4846d43f033.svg",
+    "static/media/Twitter.svg": "/scrimba_react_project2/static/media/Twitter.935b894c0479aa923cd2a3a501f1e061.svg",
     "index.html": "/scrimba_react_project2/index.html",
-    "main.dba49dfc.css.map": "/scrimba_react_project2/static/css/main.dba49dfc.css.map",
-    "main.a6dc46d8.js.map": "/scrimba_react_project2/static/js/main.a6dc46d8.js.map"
+    "static/media/linkedin.svg": "/scrimba_react_project2/static/media/linkedin.428e955672b18cdce36e.svg",
+    "static/media/Facebook.svg": "/scrimba_react_project2/static/media/Facebook.0c8aaad64b7451ad06b4d0b5ba0abe76.svg",
+    "static/media/Mail.svg": "/scrimba_react_project2/static/media/Mail.341d1e767b26e2540702.svg",
+    "main.b83eb7e5.css.map": "/scrimba_react_project2/static/css/main.b83eb7e5.css.map",
+    "main.554a89f5.js.map": "/scrimba_react_project2/static/js/main.554a89f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.dba49dfc.css",
-    "static/js/main.a6dc46d8.js"
+    "static/css/main.b83eb7e5.css",
+    "static/js/main.554a89f5.js"
   ]
 }
